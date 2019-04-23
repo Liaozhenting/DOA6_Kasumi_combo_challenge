@@ -1,0 +1,134 @@
+KeyDown "S", 1
+Delay 20
+KeyDown "D", 1
+Delay 102
+KeyDown "M", 1
+Delay 7
+KeyUp "S", 1
+Delay 24
+KeyUp "D", 1
+Delay 48
+KeyUp "M", 1
+Delay 1776
+KeyDown "A", 1
+Delay 8
+KeyDown "L", 1
+Delay 8
+KeyDown "J", 1
+Delay 105
+KeyUp "J", 1
+Delay 15
+KeyUp "L", 1
+Delay 8
+KeyUp "A", 1
+Delay 448
+KeyDown "S", 1
+Delay 16
+KeyDown "D", 1
+Delay 48
+KeyDown "L", 1
+Delay 8
+KeyDown "J", 1
+Delay 72
+KeyUp "D", 1
+Delay 8
+KeyUp "S", 1
+Delay 8
+KeyUp "L", 1
+Delay 8
+KeyUp "J", 1
+
+Delay 800
+KeyDown "K", 1
+Delay 88
+KeyUp "K", 1
+Delay 132
+KeyDown "L", 1
+Delay 96
+KeyUp "L", 1
+Delay 64
+KeyDown "L", 1
+Delay 96
+KeyUp "L", 1
+Delay 160
+KeyDown "L", 1
+Delay 88
+KeyUp "L", 1
+
+Delay 800
+KeyDown "D", 1
+Delay 32
+KeyDown "I", 1
+Delay 95
+KeyUp "D", 1
+Delay 8
+KeyUp "I", 1
+Delay 473
+KeyDown "J", 1
+Delay 120
+KeyUp "J", 1
+
+Delay 900
+KeyDown "A", 1
+Delay 33
+KeyDown "K", 1
+Delay 104
+KeyUp "A", 1
+Delay 8
+KeyUp "K", 1
+Delay 359
+KeyDown "K", 1
+Delay 89
+KeyUp "K", 1
+//
+Delay 500
+KeyDown "S", 1
+Delay 7
+KeyDown "D", 1
+Delay 57
+KeyUp "D", 1
+Delay 7
+KeyUp "S", 1
+Delay 49
+KeyDown "S", 1
+Delay 8
+KeyDown "D", 1
+Delay 144
+KeyUp "D", 1
+Delay 8
+KeyUp "S", 1
+KeyDown "K", 1
+Delay 135
+KeyUp "K", 1
+Delay 593
+KeyDown "L", 1
+Delay 8
+KeyDown "J", 1
+Delay 128
+KeyUp "J", 1
+Delay 15
+KeyUp "L", 1
+Delay 416
+KeyDown "K", 1
+Delay 104
+KeyUp "K", 1
+Delay 617
+KeyDown "D", 1
+Delay 55
+KeyUp "D", 1
+Delay 56
+KeyDown "D", 1
+Delay 260
+KeyUp "D", 1
+Delay 56
+KeyDown "S", 1
+Delay 20
+KeyDown "D", 1
+Delay 20
+KeyUp "S", 1
+Delay 16
+KeyDown "K", 1
+Delay 24
+KeyUp "D", 1
+Delay 80
+KeyUp "K", 1
