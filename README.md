@@ -6,4 +6,6 @@
 ## 注意
 并不是每次都能成功，如果没有按预想的完成动作，在游戏中空格+O复位，多试几次。
 
-![演示](./doa.gif)
+<video id="video" controls="" preload="none">
+<source id="mp4" src="./kk.mp4" type="video/mp4">
+</video>
